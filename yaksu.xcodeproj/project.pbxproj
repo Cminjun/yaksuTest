@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		24395F1C1FCE866800E8E957 /* drop.png in Resources */ = {isa = PBXBuildFile; fileRef = 24395F1B1FCE866800E8E957 /* drop.png */; };
 		24DFC5141FCD293100654C3B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24DFC5131FCD293100654C3B /* AppDelegate.swift */; };
 		24DFC5161FCD293100654C3B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24DFC5151FCD293100654C3B /* ViewController.swift */; };
 		24DFC5191FCD293100654C3B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24DFC5171FCD293100654C3B /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		24395F1B1FCE866800E8E957 /* drop.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = drop.png; sourceTree = "<group>"; };
 		24DFC5101FCD293100654C3B /* yaksu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = yaksu.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		24DFC5131FCD293100654C3B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		24DFC5151FCD293100654C3B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				24DFC5171FCD293100654C3B /* Main.storyboard */,
 				24DFC51D1FCD293100654C3B /* Assets.xcassets */,
 				24DFC51F1FCD293100654C3B /* LaunchScreen.storyboard */,
+				24395F1B1FCE866800E8E957 /* drop.png */,
 				24DFC5221FCD293100654C3B /* Info.plist */,
 				24DFC51A1FCD293100654C3B /* yaksu.xcdatamodeld */,
 			);
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				24395F1C1FCE866800E8E957 /* drop.png in Resources */,
 				24DFC5211FCD293100654C3B /* LaunchScreen.storyboard in Resources */,
 				24DFC51E1FCD293100654C3B /* Assets.xcassets in Resources */,
 				24DFC5191FCD293100654C3B /* Main.storyboard in Resources */,
@@ -303,6 +307,7 @@
 				24DFC5271FCD293100654C3B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
